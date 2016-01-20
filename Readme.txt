@@ -1,6 +1,8 @@
-一些git相关的命令
+﻿一些git相关的命令
 
 
 
 
-https://github.com/xusoku/GIT/blob/master/git.png
+
+# 效果图，单张点击
+![](https://github.com/xusoku/GIT/blob/master/git.png)
