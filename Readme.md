@@ -4,5 +4,5 @@
 
 
 
-# 效果图，单张点   击
+# 效果图，单张点击
 ![](https://github.com/xusoku/GIT/blob/master/git.png)
